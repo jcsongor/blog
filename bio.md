@@ -1,6 +1,8 @@
+---
 layout: page
 title: "bio"
 permalink: /bio
+---
 
 A sport, a mozgás mindig is fontos része volt az életemnek, közel 25 évet töltöttem különböző harcművészetek tanulásával és tanításával. A japán küzdősportok adták azt a hozzáállást és munkamorált, ami mind a mai napig sokat segít a gyakorlásban és a mindennapi életben.
 
